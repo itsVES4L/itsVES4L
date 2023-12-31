@@ -3,7 +3,7 @@
   Vesal Shahdadnejad
 </h1>
 
-<h4 align="center">This is Vesal! A junior front end developer !</h4>
+<h4 align="center">This is Vesal! a junior front end developer !</h4>
 
 ## My expertise
 
