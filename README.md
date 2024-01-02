@@ -3,7 +3,7 @@
   Vesal Shahdadnejad
 </h1>
 
-<h4 align="center">This is Vesal! a junior front end developer !</h4>
+<h4 align="center"> hey, this is vesal, a aspiring junior front-end developer. 🚀 Passionate about diving into the tech universe and soaking up knowledge.💡 !</h4>
 
 ## My expertise
 
