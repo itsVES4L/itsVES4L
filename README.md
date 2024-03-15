@@ -33,7 +33,7 @@
 <a href="https://t.me/itsVES4L">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://linkedin.com/itsVES4L">
+<a href="https://www.linkedin.com/in/itsves4l">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-2CA3E0?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
