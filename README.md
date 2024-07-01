@@ -25,6 +25,7 @@
 
 
 </p>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66821688d270cc49a6915072?variant=dark" alt="roadmap.sh"/></a>
 
 ## My social networks
 <a href="https://www.instagram.com/whosvesal">
